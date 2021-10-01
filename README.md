@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ilkay.+A+Front-end+Engineer.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ilkay.+A+Front-end+Engineer.;)]
 ---
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkaay&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkaay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkaay&layout=compact&theme=radical)]
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ilkaay.ilkaay)
 </div>
