@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ilkay.+A+Frontend+Engineer.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ilkay.+A+Front-end+Engineer.;)](https://git.io/typing-svg)
 ---
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)](https://git.io/streak-stats)
