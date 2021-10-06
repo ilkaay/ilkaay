@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkaay&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesdindas&theme=radical)](https://git.io/streak-stats)
 
 ---
 👯 I’m looking to collaborate on Vue projects
