@@ -1,9 +1,3 @@
-<!--
-**enesdindas/enesdindas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&center=true&vCenter=true&width=600&lines=Hello+Friend%2C;I'm+ilkay.+A+Front-end+Engineer.;)
