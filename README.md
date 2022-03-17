@@ -12,19 +12,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkaay&theme=radical)](https://git.io/streak-stats)
 
 ---
-👯 I’m looking to collaborate on Vue projects
-<br/>
-🌱 I’m currently learning React
-<br/>
-📫 How to reach me: ilkaay.yuksel@gmail.com
 
-<!-- - 🌱 I’m currently learning GoLang -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - ⚡ Fun fact: ... -->
-
----
-<h3 align="left">My Stack</h3>
+<h3 align="center">My Stack</h3>
 <p>
    <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img>
    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
@@ -42,11 +31,7 @@
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img> 
 </p>
 
-
 ---
-  
-![Snake animation](https://svgshare.com/i/_CU.svg)
 
----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ilkaay.ilkaay)
-</div>
+📫 How to reach me: ilkaay.yuksel@gmail.com
+
